@@ -14,7 +14,7 @@ int main () {
         } else {
             if (num >= 0 && num < 5) {
                 cout << " Đặt được";
-            } else if ( num == 5) {
+            } else {
                 cout << " Không đặt được";
             }
         }
